@@ -1,9 +1,9 @@
-# Iceify-Cookie-Logger
+# Pirate-Cookie-Logger
 
 **I Am not responsible for any malicious use of this program**
 
 
-Iceify Logger, free easy cookie log builder on github 🤯 
+Pirate Logger, free easy cookie log builder on github 🤯 
 # Discord Server
 
 https://discord.gg/VvH5PvbVCU (UPDATED INV)

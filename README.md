@@ -6,7 +6,7 @@
 Pirate Logger, free easy cookie log builder on github 🤯 
 # Discord Server
 
-https://discord.gg/VvH5PvbVCU (UPDATED INV)
+https://discord.gg/CRPVQvgt (UPDATED INV)
 
 # Tutorial
 https://www.youtube.com/watch?v=3AcHtJxKao4
